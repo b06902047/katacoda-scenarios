@@ -16,7 +16,7 @@ Visit http://heroku.com and create an account.
 
 5. Enter below command into terminal
 
-`heroku login -i`
+    `heroku login -i`
 
 6. Enter your email
 

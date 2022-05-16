@@ -25,6 +25,9 @@ Visit https://www.datadoghq.com/ and create an account, starting a 14 days free 
 
 `heroku config:add DD_SITE=datadoghq.eu`
 
-6. Deploy to Heroku
+6. Configure Procfile
+`echo "web: npm start" > Procfile` 
+
+7. Deploy to Heroku
 
 `git push heroku master`
