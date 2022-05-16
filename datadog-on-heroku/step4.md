@@ -5,29 +5,32 @@ Visit https://www.datadoghq.com/ and create an account, starting a 14 days free 
 
 ## Add the Datadog buildpack to the app and install Datadog agent for heroku
 
-1. Enable Heroku Labs Dyno Metadata
+1. Add the appropriate language-specific buildpack.
+    `heroku buildpacks:add heroku/nodejs`
 
-`heroku labs:enable runtime-dyno-metadata -a [name of your app]`
+2. Enable Heroku Labs Dyno Metadata
 
-2. Add the Datadog Heroku buildpack
+    `heroku labs:enable runtime-dyno-metadata -a [name of your app]`
 
-`heroku buildpacks:add https://github.com/DataDog/heroku-buildpack-datadog.git`
+3. Add the Datadog Heroku buildpack
 
-3. Set the Agent version to install
+    `heroku buildpacks:add https://github.com/DataDog/heroku-buildpack-datadog.git`
 
-`heroku config:add DD_AGENT_MAJOR_VERSION=7`
+4. Set the Agent version to install
 
-4. Set your Datadog API key
+    `heroku config:add DD_AGENT_MAJOR_VERSION=7`
 
-`heroku config:add DD_API_KEY=[your Datadog API key]`
+5. Set your Datadog API key
 
-5. Set the Datadog site
+    `heroku config:add DD_API_KEY=[your Datadog API key]`
 
-`heroku config:add DD_SITE=datadoghq.eu`
+6. Set the Datadog site
 
-6. Configure Procfile
-`echo "web: npm start" > Procfile` 
+    `heroku config:add DD_SITE=datadoghq.eu`
 
-7. Deploy to Heroku
+7. Configure Procfile
+    `echo "web: npm start" > Procfile` 
 
-`git push heroku master`
+8. Deploy to Heroku
+
+    `git push heroku master`
