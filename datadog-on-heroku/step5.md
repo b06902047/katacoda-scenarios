@@ -1,1 +1,0 @@
-# Interpret the Monitoring Result

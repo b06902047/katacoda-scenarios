@@ -1,12 +1,10 @@
-# Create Heroku Account and Login with Heroku CLI
-
 ## Create Heroku Account
 
 Visit http://heroku.com and create an account.  
 
 ## Login with Heroku CLI
 
-1. Navigate to https://dashboard.heroku.com/account/applications
+1. Navigate to https://dashboard.heroku.com/account/applications and log in from website
 
 2. In Authorizations click on create authorization button
 

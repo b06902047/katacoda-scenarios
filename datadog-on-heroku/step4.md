@@ -1,5 +1,3 @@
-# Configure Datadog
-
 ## Create a Datadog account. 
 Visit https://www.datadoghq.com/ and create an account, starting a 14 days free trial.
 
@@ -20,7 +18,7 @@ Visit https://www.datadoghq.com/ and create an account, starting a 14 days free 
 
     `heroku config:add DD_AGENT_MAJOR_VERSION=7`
 
-5. Set your Datadog API key
+5. Set your Datadog API key (Datadog API key can be found in `Integration/API` tab in the Datadog application)
 
     `heroku config:add DD_API_KEY=[your Datadog API key]`
 
@@ -32,5 +30,9 @@ Visit https://www.datadoghq.com/ and create an account, starting a 14 days free 
     `echo "web: npm start" > Procfile` 
 
 8. Deploy to Heroku
+
+    `git add .`
+
+    `git commit -m [commit message]`
 
     `git push heroku master`

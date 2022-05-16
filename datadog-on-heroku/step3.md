@@ -1,5 +1,3 @@
-# Deploy Owasp Juice Shop on Heroku
-
 Fork the repo from [OWASP Juice Shop](https://github.com/juice-shop/juice-shop). Then, clone the repo.
 
 `git clone https://github.com/[your github account name]/juice-shop`

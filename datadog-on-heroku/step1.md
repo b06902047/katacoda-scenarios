@@ -1,5 +1,3 @@
-# Install Dependency
-
 ## Node.js
 Enter below command into terminal.
     

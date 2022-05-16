@@ -2,27 +2,27 @@
   "title": "How to use Datadog on Heroku",
   "description": "Learn how to use Datadog to monitor applications deployed on Heroku.",
   "difficulty": "Intermediate",
-  "time": "15",
+  "time": "30",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Install Dependency",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Create Heroku Account and Login with Heroku CLI",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Deploy Owasp Juice Shop on Heroku",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Configure Datadog",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Interpret the Monitoring Result",
         "text": "step5.md"
       }
     ],
