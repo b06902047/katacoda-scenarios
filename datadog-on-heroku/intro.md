@@ -9,4 +9,6 @@ We plan to create a tutorial to show how to use Datadog to monitor applications 
 
 ## Intended Learning Outcomes
 
+
+
 ## Architecture
