@@ -1,6 +1,6 @@
 {
-  "title": "Tutorial Proposal: How to use Datadog on Heroku",
-  "description": "",
+  "title": "How to use Datadog on Heroku",
+  "description": "Learn how to use Datadog to monitor applications deployed on Heroku.",
   "difficulty": "Intermediate",
   "time": "15",
   "details": {
@@ -49,6 +49,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "golang:1.14"
+    "imageid": "ubuntu:2004"
   }
 }
