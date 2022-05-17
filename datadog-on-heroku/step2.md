@@ -6,9 +6,9 @@ Visit http://heroku.com and create an account.
 
 1. Navigate to https://dashboard.heroku.com/account/applications and log in from website
 
-2. In Authorizations click on create authorization button
+2. In Authorizations, click on `create authorization` button
 
-3. Add description in pop-up window(leave "expire after" blank if you don't want it to expire)
+3. Add description in pop-up window (leave "expire after" blank if you don't want it to expire)
 
 4. You will get authorization token
 
@@ -18,7 +18,7 @@ Visit http://heroku.com and create an account.
 
 6. Enter your email
 
-7. When it prompts for password enter the authoriation token
+7. When it prompts for password, enter the authoriation token
 
 
 
