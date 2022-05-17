@@ -25,8 +25,6 @@ To be able to determine the performance metrics and monitor events for infrastru
 
 ## Architecture
 
-![Architecture](assets/4.png)
-
-
+<img src="assets/4.png"/>
 
 
