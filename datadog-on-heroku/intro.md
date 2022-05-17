@@ -25,7 +25,7 @@ To be able to determine the performance metrics and monitor events for infrastru
 
 ## Architecture
 
-![Architecture](assets/4.png)
+![Architecture](https://github.com/b06902047/katacoda-scenarios/tree/main/datadog-on-heroku/assets/4.png)
 
 
 
