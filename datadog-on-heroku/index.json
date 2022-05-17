@@ -4,6 +4,13 @@
   "difficulty": "Intermediate",
   "time": "30",
   "details": {
+    "assets": {
+      "client": [
+              {
+        "file": "entry_menu.png", "target":"~/"
+        }
+      ] 
+    },
     "steps": [
       {
         "title": "Install Dependency",
