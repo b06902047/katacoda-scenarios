@@ -1,3 +1,4 @@
+
 ## Create a Datadog account. 
 Visit https://www.datadoghq.com/ and create an account, starting a 14 days free trial.
 

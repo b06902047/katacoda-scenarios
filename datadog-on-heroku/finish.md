@@ -1,4 +1,3 @@
-# Congratulations!!
 
 ## Reference
 1. https://github.com/juice-shop/juice-shop
