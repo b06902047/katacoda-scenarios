@@ -8,7 +8,7 @@ Click on the host you want to look into, you can see overview of the data collec
 
 Metrics collected include CPU usage, Processes memory usage, etc. If you encounter a metric that you want to look into, you can look up in the `Metrics` tag.
 
-![Metrics](https://imgur.com/p3MUr5P)
+![Metrics](https://i.imgur.com/p3MUr5P.png)
 
 
 
