@@ -1,4 +1,4 @@
-Fork the repo from [OWASP Juice Shop](https://github.com/juice-shop/juice-shop). Then, clone the repo.
+Fork the repo from [OWASP Juice Shop](https://github.com/juice-shop/juice-shop)(an web application used for security training written in JavaScript). Then, clone the repo.
 
 `git clone https://github.com/[your github account name]/juice-shop`
 
