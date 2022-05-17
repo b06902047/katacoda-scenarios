@@ -7,7 +7,7 @@
     "assets": {
       "client": [
               {
-        "file": "entry_menu.png", "target":"~/"
+        "file": "*", "target":"~/"
         }
       ] 
     },
