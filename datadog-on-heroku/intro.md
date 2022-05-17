@@ -25,7 +25,7 @@ To be able to determine the performance metrics and monitor events for infrastru
 
 ## Architecture
 
-![architecture](assets/4.png)
+![architecture](https://imgur.com/q0ZFRUV)
 
 
 
