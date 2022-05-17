@@ -4,7 +4,7 @@ Visit https://www.datadoghq.com/ and create an account, starting a 14 days free 
 
 ## Add the Datadog buildpack to the app and install Datadog agent for heroku
 
-1. Add the appropriate language-specific buildpack.
+1. Add the appropriate language-specific buildpack
     `heroku buildpacks:add heroku/nodejs`
 
 2. Enable Heroku Labs Dyno Metadata
